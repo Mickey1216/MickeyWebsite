@@ -1,0 +1,37 @@
+{
+  "id": "2357296",
+  "name": "音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11938843",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "13331094",
+      "name": "MV",
+      "font_class": "shexiangji",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "13652638",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "16897059",
+      "name": "搜索--1",
+      "font_class": "sousuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
